@@ -176,6 +176,7 @@ var Clock = (function () {
     updateColor = true,
     width = 480;
 
+
   var FRAME_RATE = 60,
     MIN_WIDTH = 0,
     MIN_HEIGHT = 0,

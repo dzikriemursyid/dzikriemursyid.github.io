@@ -203,7 +203,10 @@ a:hover {
 }
 
 #canvas {
-    margin: 200px auto;
+    margin: auto;
+    position: absolute;
+    max-width: 55%;
+    margin-left: auto;
 }
 
 .myclock {
